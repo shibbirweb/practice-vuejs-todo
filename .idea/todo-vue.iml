@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/01. Vue.js Todo App - Basics - Part 1" />
+      <excludeFolder url="file://$MODULE_DIR$/01. Vue.js Todo App - Basics - Part 1/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/02. Vue.js Todo App - Component Communication - Part 2" />
+      <excludeFolder url="file://$MODULE_DIR$/02. Vue.js Todo App - Component Communication - Part 2/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/03. Vue.js Todo App - Event Bus - Part 3" />
+      <excludeFolder url="file://$MODULE_DIR$/03. Vue.js Todo App - Event Bus - Part 3/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/04. Vue.js Todo App - Vuex - Part 4" />
+      <excludeFolder url="file://$MODULE_DIR$/04. Vue.js Todo App - Vuex - Part 4/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/05. Vue.js Todo App - Laravel API - Part 5" />
+      <excludeFolder url="file://$MODULE_DIR$/05. Vue.js Todo App - Laravel API - Part 5/Frontend/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/06. Vue.js Todo App - Firebase &amp; Firestore - Part 6" />
+      <excludeFolder url="file://$MODULE_DIR$/07. Vue.js Todo App - Realtime Database w Firebase &amp; Firestore - Part 7" />
+      <excludeFolder url="file://$MODULE_DIR$/08. Vue.js Todo App - Vue Router  - Part 8" />
+    </content>
+    <content url="file://$MODULE_DIR$/01. Vue.js Todo App - Basics - Part 1/node_modules" />
+    <content url="file://$MODULE_DIR$/02. Vue.js Todo App - Component Communication - Part 2/node_modules" />
+    <content url="file://$MODULE_DIR$/03. Vue.js Todo App - Event Bus - Part 3/node_modules" />
+    <content url="file://$MODULE_DIR$/04. Vue.js Todo App - Vuex - Part 4/node_modules" />
+    <content url="file://$MODULE_DIR$/05. Vue.js Todo App - Laravel API - Part 5/Frontend/node_modules" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

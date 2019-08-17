@@ -1,0 +1,107 @@
+<template>
+  <div class="todo-item">
+    <div class="todo-item-left">
+      <input type="checkbox" v-model="completed" @change="doneEdit">
+      <div v-if="!editing" @dblclick="editTodo" class="todo-item-label" :class="{completed : completed}">{{ title }}</div>
+      <input v-else @blur="doneEdit" @keyup.enter="doneEdit" @keyup.esc="cancelEdit" class="todo-item-edit" type="text" v-model="title" v-focus>
+    </div>
+    <div>
+      <button @click="pluralize">Plural</button>
+      <span class="remove-item" @click="removeTodo(id)">&times;</span>
+    </div>
+  </div>
+</template>
+
+<script>
+  export default {
+    name: 'TodoItem',
+    props:{
+      todo: {
+        type: Object,
+        required: true
+      },
+      index: {
+        type: Number,
+        required: true
+      },
+      checkAll: {
+        type: Boolean,
+        required: true
+      }
+    },
+    data(){
+      return {
+        'id' : this.todo.id,
+        'title': this.todo.title,
+        'completed': this.todo.completed,
+        'editing': this.todo.editing,
+        'timestamp': this.todo.timestamp,
+        'beforeEditCache': ''
+      }
+    },
+    created(){
+      eventBus.$on('pluralize', this.handlePluralize)
+    },
+    beforeDestroy(){
+      eventBus.$off('pluralize', this.handlePluralize)
+    },
+    watch:{
+      checkAll(){
+        this.completed = this.checkAll ? true : this.todo.completed
+      },
+      todo() {
+        this.title = this.todo.title
+        this.completed = this.todo.completed
+      }
+    },
+    directives: {
+      focus: {
+        // directive definition
+        inserted: function (el) {
+          el.focus()
+        }
+      }
+    },
+    methods:{
+      removeTodo(id){
+        this.$store.dispatch('deleteTodo', id)
+      },
+      cancelEdit(){
+        this.title = this.beforeEditCache
+        this.editing = false
+      },
+      editTodo(){
+        this.beforeEditCache = this.title
+        this.editing = true
+      },
+      doneEdit(){
+        if (this.title.trim() == ''){
+          this.title = this.beforeEditCache
+        }
+        this.editing = false
+
+        this.$store.dispatch('updateTodo', {
+          'id' : this.id,
+          'title' : this.title,
+          'completed': this.completed,
+          'timestamp' : this.timestamp
+        })
+      },
+      pluralize(){
+        eventBus.$emit('pluralize')
+      },
+      handlePluralize(){
+        this.title = this.title + 's'
+
+        this.$store.dispatch('updateTodo', {
+          'id' : this.id,
+          'title' : this.title,
+          'completed': this.completed,
+          'editing': this.editing,
+          'timestamp' : this.timestamp
+        })
+      }
+    }
+
+  }
+</script>
