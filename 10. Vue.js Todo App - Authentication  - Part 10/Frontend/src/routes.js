@@ -15,7 +15,10 @@ const routes = [
   {
     path: '/todo',
     name: 'todo',
-    component: App
+    component: App,
+    meta: {
+      requiresAuth: true
+    }
   },
   {
     path: '/about-us',
@@ -25,7 +28,10 @@ const routes = [
   {
     path: '/login',
     name: 'login',
-    component: Login
+    component: Login,
+    meta: {
+      requiresVisitor: true
+    }
   },
   {
     path: '/logout',
@@ -35,7 +41,10 @@ const routes = [
   {
     path: '/register',
     name: 'register',
-    component: Register
+    component: Register,
+    meta: {
+      requiresVisitor: true
+    }
   },
   {
     path: '/todos/:id',

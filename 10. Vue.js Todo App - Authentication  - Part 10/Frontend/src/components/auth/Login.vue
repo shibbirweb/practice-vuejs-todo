@@ -35,10 +35,10 @@
           .then(response => {
             this.$router.push({ name: 'todo' })
           })
+          .catch(error => {
+            console.log(error)
+          })
       }
-    },
-    created() {
-      console.log(localStorage.getItem('access_token'))
     }
   }
 </script>
