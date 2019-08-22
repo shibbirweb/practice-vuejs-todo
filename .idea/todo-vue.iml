@@ -15,6 +15,7 @@
       <excludeFolder url="file://$MODULE_DIR$/06. Vue.js Todo App - Firebase &amp; Firestore - Part 6" />
       <excludeFolder url="file://$MODULE_DIR$/07. Vue.js Todo App - Realtime Database w Firebase &amp; Firestore - Part 7" />
       <excludeFolder url="file://$MODULE_DIR$/08. Vue.js Todo App - Vue Router  - Part 8" />
+      <excludeFolder url="file://$MODULE_DIR$/09. Vue.js Todo App - Laravel Passport  - Part 9" />
     </content>
     <content url="file://$MODULE_DIR$/01. Vue.js Todo App - Basics - Part 1/node_modules" />
     <content url="file://$MODULE_DIR$/02. Vue.js Todo App - Component Communication - Part 2/node_modules" />
