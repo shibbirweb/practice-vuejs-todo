@@ -28,7 +28,7 @@
   }
 </script>
 
-<style>
+<style lang="scss">
   * {
     box-sizing: border-box;
     margin: 0;
@@ -62,5 +62,54 @@
     letter-spacing: .1rem;
     text-decoration: none;
     text-transform: uppercase;
+  }
+  //auth page
+  label{
+    display: block;
+    margin-bottom: 4px;
+  }
+  .login-heading{
+    margin-bottom: 16px;
+  }
+  .form-control{
+    margin-bottom: 24px;
+  }
+  .mb-more {
+    margin-bottom: 42px;
+  }
+  .login-form {
+    max-width: 500px;
+    margin: auto;
+  }
+  .login-input{
+    width: 100%;
+    font-size: 16px;
+    padding: 12px 16px;
+    outline: 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    border: 1px solid lightgray;
+  }
+  .btn-submit{
+    width: 100%;
+    padding: 14px 12px;
+    font-size: 18px;
+    font-weight: bold;
+    background: #60bd4f;
+    color: white;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    cursor: pointer;
+
+    &:hover{
+      background: darken(#60bd4f, 10%);
+    }
+
+    &:disabled{
+      background: lighten(#60bd4f, 25%);
+      cursor: not-allowed;
+    }
   }
 </style>

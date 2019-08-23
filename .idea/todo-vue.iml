@@ -16,6 +16,9 @@
       <excludeFolder url="file://$MODULE_DIR$/07. Vue.js Todo App - Realtime Database w Firebase &amp; Firestore - Part 7" />
       <excludeFolder url="file://$MODULE_DIR$/08. Vue.js Todo App - Vue Router  - Part 8" />
       <excludeFolder url="file://$MODULE_DIR$/09. Vue.js Todo App - Laravel Passport  - Part 9" />
+      <excludeFolder url="file://$MODULE_DIR$/10. Vue.js Todo App - Authentication  - Part 10" />
+      <excludeFolder url="file://$MODULE_DIR$/11. Vue.js Todo App - User Todos Laravel API  - Part 11" />
+      <excludeFolder url="file://$MODULE_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12" />
     </content>
     <content url="file://$MODULE_DIR$/01. Vue.js Todo App - Basics - Part 1/node_modules" />
     <content url="file://$MODULE_DIR$/02. Vue.js Todo App - Component Communication - Part 2/node_modules" />

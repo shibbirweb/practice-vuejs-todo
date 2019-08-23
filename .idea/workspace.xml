@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19e851f0-cc0a-462d-9c2b-55eb2aaf4350" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/todo-vue.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/todo-vue.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/auth/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/auth/Login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/auth/Register.vue" beforeDir="false" afterPath="$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/auth/Register.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/store/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/store/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/layouts/Master.vue" beforeDir="false" afterPath="$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/layouts/Master.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,75 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/routes.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="569">
-              <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/layouts/Master.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-598">
-              <caret line="13" column="70" selection-start-line="13" selection-start-column="70" selection-end-line="13" selection-end-column="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/store/store.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="106" column="15" selection-start-line="106" selection-start-column="15" selection-end-line="106" selection-end-column="15" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-161">
-              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#140#161#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/auth/Login.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="35" column="12" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/auth/Register.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/auth/Logout.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            <state relative-caret-position="500">
+              <caret line="113" column="3" selection-start-line="113" selection-start-column="3" selection-end-line="113" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -127,25 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01. Vue.js Todo App - Basics - Part 1/src/components/TodoList.vue" />
-        <option value="$PROJECT_DIR$/04. Vue.js Todo App - Vuex - Part 4/src/components/TodoItemRemaining.vue" />
-        <option value="$PROJECT_DIR$/04. Vue.js Todo App - Vuex - Part 4/src/components/TodoClearCompleted.vue" />
-        <option value="$PROJECT_DIR$/04. Vue.js Todo App - Vuex - Part 4/src/components/TodoFiltered.vue" />
-        <option value="$PROJECT_DIR$/04. Vue.js Todo App - Vuex - Part 4/src/components/TodoCheckAll.vue" />
-        <option value="$PROJECT_DIR$/04. Vue.js Todo App - Vuex - Part 4/src/components/TodoItem.vue" />
-        <option value="$PROJECT_DIR$/04. Vue.js Todo App - Vuex - Part 4/src/store/store.js" />
-        <option value="$PROJECT_DIR$/04. Vue.js Todo App - Vuex - Part 4/src/components/TodoList.vue" />
-        <option value="$PROJECT_DIR$/05. Vue.js Todo App - Laravel API - Part 5/apiForTodo/.env" />
-        <option value="$PROJECT_DIR$/05. Vue.js Todo App - Laravel API - Part 5/apiForTodo/database/migrations/2019_08_14_204459_create_todos_table.php" />
-        <option value="$PROJECT_DIR$/05. Vue.js Todo App - Laravel API - Part 5/apiForTodo/app/Providers/AppServiceProvider.php" />
-        <option value="$PROJECT_DIR$/05. Vue.js Todo App - Laravel API - Part 5/apiForTodo/app/Todo.php" />
-        <option value="$PROJECT_DIR$/05. Vue.js Todo App - Laravel API - Part 5/apiForTodo/routes/web.php" />
-        <option value="$PROJECT_DIR$/05. Vue.js Todo App - Laravel API - Part 5/apiForTodo/app/Http/Kernel.php" />
-        <option value="$PROJECT_DIR$/05. Vue.js Todo App - Laravel API - Part 5/Frontend/src/components/TodoList.vue" />
-        <option value="$PROJECT_DIR$/05. Vue.js Todo App - Laravel API - Part 5/apiForTodo/routes/api.php" />
-        <option value="$PROJECT_DIR$/05. Vue.js Todo App - Laravel API - Part 5/apiForTodo/app/Http/Controllers/TodoController.php" />
-        <option value="$PROJECT_DIR$/05. Vue.js Todo App - Laravel API - Part 5/Frontend/src/store/store.js" />
-        <option value="$PROJECT_DIR$/05. Vue.js Todo App - Laravel API - Part 5/Frontend/src/components/TodoItem.vue" />
         <option value="$PROJECT_DIR$/06. Vue.js Todo App - Firebase &amp; Firestore - Part 6/src/firebase.js" />
         <option value="$PROJECT_DIR$/06. Vue.js Todo App - Firebase &amp; Firestore - Part 6/src/components/TodoList.vue" />
         <option value="$PROJECT_DIR$/06. Vue.js Todo App - Firebase &amp; Firestore - Part 6/src/store/store.js" />
@@ -170,7 +84,6 @@
         <option value="$PROJECT_DIR$/09. Vue.js Todo App - Laravel Passport  - Part 9/apiForTodo/routes/api.php" />
         <option value="$PROJECT_DIR$/09. Vue.js Todo App - Laravel Passport  - Part 9/apiForTodo/app/Http/Controllers/AuthController.php" />
         <option value="$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/apiForTodo/.env" />
-        <option value="$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/layouts/Master.vue" />
         <option value="$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/auth/logout.vue" />
         <option value="$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/auth/Logout.vue" />
         <option value="$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/routes.js" />
@@ -178,6 +91,26 @@
         <option value="$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/auth/Register.vue" />
         <option value="$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/auth/Login.vue" />
         <option value="$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/store/store.js" />
+        <option value="$PROJECT_DIR$/11. Vue.js Todo App - User Todos Laravel API  - Part 11/apiForTodo/database/migrations/2019_08_14_204459_create_todos_table.php" />
+        <option value="$PROJECT_DIR$/11. Vue.js Todo App - User Todos Laravel API  - Part 11/apiForTodo/app/Todo.php" />
+        <option value="$PROJECT_DIR$/11. Vue.js Todo App - User Todos Laravel API  - Part 11/apiForTodo/.env" />
+        <option value="$PROJECT_DIR$/11. Vue.js Todo App - User Todos Laravel API  - Part 11/apiForTodo/app/User.php" />
+        <option value="$PROJECT_DIR$/11. Vue.js Todo App - User Todos Laravel API  - Part 11/Frontend/src/components/auth/Logout.vue" />
+        <option value="$PROJECT_DIR$/11. Vue.js Todo App - User Todos Laravel API  - Part 11/apiForTodo/routes/api.php" />
+        <option value="$PROJECT_DIR$/11. Vue.js Todo App - User Todos Laravel API  - Part 11/apiForTodo/app/Http/Controllers/TodoController.php" />
+        <option value="$PROJECT_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12/apiForTodo/.env" />
+        <option value="$PROJECT_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12/Frontend/src/store/store.js" />
+        <option value="$PROJECT_DIR$/11. Vue.js Todo App - User Todos Laravel API  - Part 11/Frontend/src/store/store.js" />
+        <option value="$PROJECT_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12/Frontend/src/routes.js" />
+        <option value="$PROJECT_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12/Frontend/src/main.js" />
+        <option value="$PROJECT_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12/Frontend/src/components/TodoList.vue" />
+        <option value="$PROJECT_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12/Frontend/src/components/auth/Register.vue" />
+        <option value="$PROJECT_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12/Frontend/src/components/marketing/About.vue" />
+        <option value="$PROJECT_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12/Frontend/src/components/marketing/LandingPage.vue" />
+        <option value="$PROJECT_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12/Frontend/src/components/layouts/Master.vue" />
+        <option value="$PROJECT_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12/Frontend/src/components/auth/Login.vue" />
+        <option value="$PROJECT_DIR$/11. Vue.js Todo App - User Todos Laravel API  - Part 11/Frontend/src/components/layouts/Master.vue" />
+        <option value="$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/layouts/Master.vue" />
       </list>
     </option>
   </component>
@@ -233,7 +166,7 @@
               <item name="Frontend" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="auth" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -287,7 +220,10 @@
       <workItem from="1566046389974" duration="15892000" />
       <workItem from="1566155908925" duration="5511000" />
       <workItem from="1566302449459" duration="7732000" />
-      <workItem from="1566455660504" duration="5779000" />
+      <workItem from="1566455660504" duration="6005000" />
+      <workItem from="1566467692239" duration="13560000" />
+      <workItem from="1566547500466" duration="594000" />
+      <workItem from="1566579459484" duration="5570000" />
     </task>
     <task id="LOCAL-00001" summary="Part 9 Processing">
       <created>1566079423310</created>
@@ -303,17 +239,24 @@
       <option name="project" value="LOCAL" />
       <updated>1566161288997</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Part 10 Complete">
+      <created>1566461933550</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566461933550</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90786000" />
+    <option name="totallyTimeSpent" value="110736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20726173" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25945538" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -367,200 +310,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Part 9 Processing" />
     <MESSAGE value="Part 9 Complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Part 9 Complete" />
+    <MESSAGE value="Part 10 Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Part 10 Complete" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/05. Vue.js Todo App - Laravel API - Part 5/Frontend/src/components/TodoList.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="42" column="20" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05. Vue.js Todo App - Laravel API - Part 5/Frontend/src/store/store.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="78" column="27" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05. Vue.js Todo App - Laravel API - Part 5/apiForTodo/app/Http/Controllers/TodoController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="115" column="39" selection-start-line="115" selection-start-column="39" selection-end-line="115" selection-end-column="39" />
-          <folding>
-            <element signature="e#40#53#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05. Vue.js Todo App - Laravel API - Part 5/apiForTodo/routes/api.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="24" column="36" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06. Vue.js Todo App - Firebase &amp; Firestore - Part 6/src/components/TodoCheckAll.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06. Vue.js Todo App - Firebase &amp; Firestore - Part 6/src/components/TodoItem.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="77" column="34" selection-start-line="77" selection-start-column="34" selection-end-line="77" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06. Vue.js Todo App - Firebase &amp; Firestore - Part 6/src/store/store.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="132" column="40" selection-start-line="132" selection-start-column="40" selection-end-line="132" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06. Vue.js Todo App - Firebase &amp; Firestore - Part 6/src/components/TodoList.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06. Vue.js Todo App - Firebase &amp; Firestore - Part 6/src/firebase.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07. Vue.js Todo App - Realtime Database w Firebase &amp; Firestore - Part 7/src/firebase.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07. Vue.js Todo App - Realtime Database w Firebase &amp; Firestore - Part 7/src/components/TodoItem.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07. Vue.js Todo App - Realtime Database w Firebase &amp; Firestore - Part 7/src/store/store.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="189" column="53" selection-start-line="189" selection-start-column="53" selection-end-line="189" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07. Vue.js Todo App - Realtime Database w Firebase &amp; Firestore - Part 7/src/components/TodoList.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="47" column="49" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08. Vue.js Todo App - Vue Router  - Part 8/apiForTodo/routes/api.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-138" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08. Vue.js Todo App - Vue Router  - Part 8/Frontend/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="26" selection-start-line="26" selection-start-column="2" selection-end-line="34" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04. Vue.js Todo App - Vuex - Part 4/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#140#161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08. Vue.js Todo App - Vue Router  - Part 8/Frontend/src/components/marketing/LandingPage.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08. Vue.js Todo App - Vue Router  - Part 8/Frontend/src/components/TodoList.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="145" column="17" selection-start-line="145" selection-start-column="17" selection-end-line="145" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08. Vue.js Todo App - Vue Router  - Part 8/Frontend/src/components/marketing/About.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08. Vue.js Todo App - Vue Router  - Part 8/Frontend/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#140#161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08. Vue.js Todo App - Vue Router  - Part 8/Frontend/src/components/layouts/Master.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysql/mysql.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22354" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08. Vue.js Todo App - Vue Router  - Part 8/Frontend/src/components/marketing/TestTodosVariable.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08. Vue.js Todo App - Vue Router  - Part 8/Frontend/src/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08. Vue.js Todo App - Vue Router  - Part 8/Frontend/src/components/auth/Login.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -703,30 +456,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/auth/Logout.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/layouts/Master.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-598">
-          <caret line="13" column="70" selection-start-line="13" selection-start-column="70" selection-end-line="13" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/auth/Register.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/routes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
+        <state relative-caret-position="506">
           <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
@@ -734,16 +466,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/auth/Login.vue">
+    <entry file="file://$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/auth/Logout.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="35" column="12" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+        <state relative-caret-position="207">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/store/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="109" column="25" selection-start-line="109" selection-start-column="25" selection-end-line="109" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-161">
+        <state relative-caret-position="23">
           <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -752,13 +494,201 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/store/store.js">
+    <entry file="file://$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/auth/Register.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="106" column="15" selection-start-line="106" selection-start-column="15" selection-end-line="106" selection-end-column="15" />
+        <state relative-caret-position="182">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Vue.js Todo App - User Todos Laravel API  - Part 11/apiForTodo/database/migrations/2019_08_14_204459_create_todos_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Vue.js Todo App - User Todos Laravel API  - Part 11/apiForTodo/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Vue.js Todo App - User Todos Laravel API  - Part 11/apiForTodo/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Vue.js Todo App - User Todos Laravel API  - Part 11/Frontend/src/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Vue.js Todo App - User Todos Laravel API  - Part 11/Frontend/src/components/auth/Logout.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Vue.js Todo App - User Todos Laravel API  - Part 11/apiForTodo/routes/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Vue.js Todo App - User Todos Laravel API  - Part 11/apiForTodo/app/Http/Controllers/TodoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="136" selection-start-line="136" selection-end-line="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Vue.js Todo App - User Todos Laravel API  - Part 11/apiForTodo/app/Todo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12/apiForTodo/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="43" column="46" lean-forward="true" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Vue.js Todo App - User Todos Laravel API  - Part 11/Frontend/src/store/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="96" column="13" selection-start-line="96" selection-start-column="13" selection-end-line="96" selection-end-column="13" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12/Frontend/src/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12/Frontend/src/store/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="115" column="10" selection-start-line="115" selection-start-column="10" selection-end-line="115" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12/Frontend/src/components/auth/Logout.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12/Frontend/src/components/marketing/TestTodosVariable.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12/Frontend/src/components/marketing/LandingPage.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12/Frontend/src/components/auth/Register.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12/Frontend/src/components/marketing/About.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12/Frontend/src/components/auth/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12/Frontend/src/components/layouts/Master.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="121" column="3" lean-forward="true" selection-start-line="73" selection-start-column="2" selection-end-line="121" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Vue.js Todo App - User Todos Laravel API  - Part 11/Frontend/src/components/auth/Login.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11. Vue.js Todo App - User Todos Laravel API  - Part 11/Frontend/src/components/layouts/Master.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2277">
+          <caret line="114" column="3" selection-start-line="114" selection-start-column="3" selection-end-line="114" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12/Frontend/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#140#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12/Frontend/src/components/TodoItem.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-43" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12. Vue.js Todo App - Polish (Validation, Animation, Spinners)  - Part 12/Frontend/src/components/TodoList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="81" column="21" lean-forward="true" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
+          <folding>
+            <element signature="e#878#911#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/auth/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10. Vue.js Todo App - Authentication  - Part 10/Frontend/src/components/layouts/Master.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="113" column="3" selection-start-line="113" selection-start-column="3" selection-end-line="113" selection-end-column="3" />
         </state>
       </provider>
     </entry>
